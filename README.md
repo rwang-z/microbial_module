@@ -11,7 +11,8 @@ For more details, please read the paper: XXX
 
 Workflow of the mehtod:
 
-(workflow figure)
+![figures](https://user-images.githubusercontent.com/57746198/152830171-2332eb42-3bf6-4fd6-a1fa-a5b2bcf351cf.png)
+
 
 ## Platform
 
