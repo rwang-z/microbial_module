@@ -38,10 +38,11 @@ Execute the program by running:
 
 - seed_flag: how to initialize the variables.
 
+  - ‘random’: do not set seed and initialize the variables randomly. Default value.
+  
   - ‘set’: using the seed provided to the parameter ‘seed’.
-  - ‘random’: do not set seed and initialize the variables randomly.
 	
-- seed: the seed used for initialization when ‘seed_flag’ is set to ‘set’.
+- seed: the seed used for initialization when ‘seed_flag’ is set to ‘set’. Default 12345.
 
 ### Output
 
